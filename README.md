@@ -1,6 +1,6 @@
-# 📊 Amazon Sales Dashboard: Power BI Project
+# Amazon Sales Dashboard: Power BI Project
 
-
+![Amazon Sales Dashboard](https://github.com/01-vivek-kumar/amazon_sales_powerbi/blob/main/Amazon%20Sales%20Dashboard.png)
 
 ## 🟢 1. Data Ingestion & Loading
 - Imported the sales dataset into Power BI.
